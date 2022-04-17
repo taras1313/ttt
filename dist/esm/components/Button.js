@@ -1,7 +1,7 @@
 import React from 'react';
 export const Button = (props) => {
     const { children, backgroundColor, color, style } = props;
-    let _style = style || { color: 'red', backgroundColor: 'green' };
+    let _style = style || { color: 'red', backgroundColor: 'black' };
     /** Override Defaults */
     if (backgroundColor && _style)
         _style.backgroundColor = backgroundColor;
