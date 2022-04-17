@@ -8,7 +8,7 @@ export interface IButtonProps extends React.DetailedHTMLProps<React.ButtonHTMLAt
 export const Button: React.FunctionComponent<IButtonProps> = (props) => {
     const { children, backgroundColor, color, style } = props;
 
-    let _style: React.CSSProperties = style || {color: 'red', backgroundColor: 'blue'};
+    let _style: React.CSSProperties = style || {color: 'red', backgroundColor: 'green'};
 
     /** Override Defaults */
     if (backgroundColor && _style) _style.backgroundColor = backgroundColor;
