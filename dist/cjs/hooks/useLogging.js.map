@@ -1,0 +1,1 @@
+{"version":3,"file":"useLogging.js","sourceRoot":"","sources":["../../../src/hooks/useLogging.ts"],"names":[],"mappings":";;;;;;AAAA,iCAA+B;AAC/B,iEAA8D;AAE9D;;;;GAIG;AACI,MAAM,UAAU,GAAG,CAAC,OAAyB,EAAa,EAAE;IAC/D,MAAM,EAAE,OAAO,EAAE,OAAO,EAAE,GAAG,IAAA,cAAM,EAAC,IAAI,iBAAO,CAAC,OAAO,CAAC,CAAC,CAAC;IAE1D,OAAO,CAAC,OAAO,CAAC,CAAC;AACrB,CAAC,CAAC;AAJW,QAAA,UAAU,cAIrB"}
