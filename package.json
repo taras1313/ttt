@@ -12,9 +12,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "rm -rf dist/ && npm run build:esm && npm run build:cjs",
+    "build": "rm -rf dist/ && npm run build:esm",
     "build:esm": "tsc",
-    "build:cjs": "tsc --module CommonJS --outDir dist/cjs",
     "prepare": "husky install"
   },
   "author": "The Nerdy Canuck",
