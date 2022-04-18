@@ -4,15 +4,17 @@
     "type": "git",
     "url": "https://github.com/joeythelantern/Component-Library.git"
   },
-  "version": "0.0.5",
+  "version": "0.0.2",
   "description": "A component library for getting people started with easy to re-use components for everyday projects.",
+  "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
     "dist"
   ],
   "scripts": {
-    "build": "rm -rf dist/ && npm run build:esm",
+    "build": "rm -rf dist/ && npm run build:esm && npm run build:cjs",
     "build:esm": "tsc",
+    "build:cjs": "tsc --module CommonJS --outDir dist/cjs",
     "prepare": "husky install"
   },
   "author": "The Nerdy Canuck",
