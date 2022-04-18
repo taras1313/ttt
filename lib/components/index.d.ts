@@ -1,6 +1,2 @@
-export { Button } from './atoms';
-export { Snackbars } from './atoms';
-export * from './atoms/icons';
-export { TextField } from './molecules';
-export { Editor } from './organisms';
+export * from './Button';
 //# sourceMappingURL=index.d.ts.map

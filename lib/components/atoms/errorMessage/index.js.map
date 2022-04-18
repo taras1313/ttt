@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/components/atoms/errorMessage/index.tsx"],"names":[],"mappings":";;;;;;AAAA,gDAAkC;AAElC,4EAA6C;AAMtC,IAAM,YAAY,GAAc,UAAC,EAAQ;QAAN,IAAI,UAAA;IAC5C,IAAM,OAAO,GAAG,IAAA,4BAAS,GAAE,CAAC;IAC5B,OAAO,uCAAK,SAAS,EAAE,OAAO,CAAC,OAAO,IAAG,IAAI,CAAO,CAAC;AACvD,CAAC,CAAC;AAHW,QAAA,YAAY,gBAGvB;AAEF,kBAAe,oBAAY,CAAC"}

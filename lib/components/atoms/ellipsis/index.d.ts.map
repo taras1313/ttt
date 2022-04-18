@@ -1,1 +1,0 @@
-{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../src/components/atoms/ellipsis/index.tsx"],"names":[],"mappings":"AAAA,OAAc,EAAE,EAAE,EAAE,aAAa,EAAE,MAAM,OAAO,CAAC;AAKjD,UAAU,KAAK;IACb,QAAQ,EAAE,aAAa,CAAC;IACxB,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,KAAK,CAAC,EAAE,MAAM,CAAC;CAChB;AAED,eAAO,MAAM,QAAQ,EAAE,EAAE,CAAC,KAAK,CAQ9B,CAAC;AAEF,eAAe,QAAQ,CAAC"}
