@@ -1,0 +1,70 @@
+/*
+ * styles for hubspot form
+ */
+.hs-input {
+  width: 100% !important;
+  height: 46px;
+  font-size: 14px;
+  margin-bottom: 25px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border: 1px solid #1f4637;
+  border-radius: 5px;
+  background-color: #f5f5eb;
+  color: #3b3b3b;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.hs-input::placeholder {
+  color: #9ca3af
+}
+
+.hs-button {
+  height: 46px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 12px 60px;
+  border: 1px solid #1f4637;
+  border-radius: 5px;
+  background-color: #1e4637;
+  color: #fff;
+  font-size: 16px;
+  line-height: 132%;
+  cursor: pointer;
+  width: 100%;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.hs-button:hover {
+  background-color: #97e4b2;
+  color: #1f4637
+}
+
+.hs-error-msg {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-family: 'Work Sans', sans-serif;
+}
+
+form.hs-form fieldset {
+  max-width: unset;
+}
+
+.form-wrapper {
+  font-size: 14px;
+  padding: 30px 20px;
+  border-radius: 10px;
+  background: white;
+  background-image: url(https://assets-global.website-files.com/5ffc74fef1579006dc588807/620118b6acbd8b68920e0b76_Footer-background.png);
+  background-position: 0 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-heading {
+  margin-bottom: 30px;
+  color: #1f4637;
+  font-size: 19px;
+  font-weight: 700;
+}
